@@ -8,9 +8,15 @@ Las prácticas preprofesionales representan una oportunidad para que los estudia
 <p>
 Se utilizó una metodología centrada en el usuario mediante la recopilación de información a través de entrevistas con los principales actores involucrados:
 </p>
-- Decanato de Vinculación.
+<p>
+- Decanato de Vinculación.  
+</p>
+<p>
 - Coordinadores de carreras.
-- Estudiantes universitarios.
+</p>
+<p>
+- Estudiantes universitarios.  
+</p>
 
 ### Resultados.
 <p>
@@ -22,4 +28,6 @@ La propuesta incluye:
 - Acceso rápido mediante códigos QR.
 - Información sobre requisitos y empresas.
 - Comunicación más sencilla entre estudiantes y coordinadores.
--Mayor orientación para estudiantes que desean realizar sus primeras prácticas.
+- Mayor orientación para estudiantes que desean realizar sus primeras prácticas.
+
+### Imagenes.
