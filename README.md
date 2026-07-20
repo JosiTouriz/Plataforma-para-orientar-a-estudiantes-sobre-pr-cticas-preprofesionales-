@@ -24,10 +24,20 @@ Como resultado del análisis se desarrolló un prototipo de una plataforma digit
 
 La propuesta incluye:
 </p>
-- Consulta de ofertas de prácticas disponibles.
+<p>
+- Consulta de ofertas de prácticas disponibles. 
+</p>
+<p>
 - Acceso rápido mediante códigos QR.
-- Información sobre requisitos y empresas.
+</p>
+<p>
+- Información sobre requisitos y empresas. 
+</p>
+<p>
 - Comunicación más sencilla entre estudiantes y coordinadores.
+</p>
+<p>
 - Mayor orientación para estudiantes que desean realizar sus primeras prácticas.
+</p>
 
 ### Imagenes.
