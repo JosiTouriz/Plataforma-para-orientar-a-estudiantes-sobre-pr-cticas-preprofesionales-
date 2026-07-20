@@ -39,5 +39,3 @@ La propuesta incluye:
 <p>
 - Mayor orientación para estudiantes que desean realizar sus primeras prácticas.
 </p>
-
-### Imagenes.
